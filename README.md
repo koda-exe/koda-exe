@@ -1,10 +1,11 @@
-### 👋 Oi, eu sou a Koda!
+### 👋 Oi, eu sou Koda!
+they/them
 
 * 🍎 Candidata à **Apple Developer Academy**, apaixonada por criar soluções que unem tecnologia, design e impacto social.
 * 🎓 Estudante na Universidade Tecnológica Federal do Paraná (UTFPR) e membra da Sociedade Brasileira de Computação (SBC).
 * 🎨 Tenho experiência em **Desenvolvimento Front-end** e prototipação de interfaces (UI/UX) no Figma, sempre buscando construir experiências de usuário acessíveis e visualmente agradáveis.
 * 📊 Atualmente, atuo no Escritório de Processos (Eproc) da UTFPR, onde também aplico conhecimentos em desenvolvimento web, crio automações em Python (RPA) e dashboards analíticos.
-* 🌟 Sou voluntaria no projeto de extensão TIChers da UTFPR, levando dinâmicas de tecnologia para a educação básica.
+* 🌟 Sou voluntario no projeto de extensão TIChers da UTFPR, levando dinâmicas de tecnologia para a educação básica.
 
 ### ✨ Entre em contato comigo:
 
